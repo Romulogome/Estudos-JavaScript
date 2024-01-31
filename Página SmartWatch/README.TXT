@@ -1,0 +1,1 @@
+Página inspirada no site da apple para estudos em JavaScript
